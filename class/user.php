@@ -2,7 +2,7 @@
 /**
 * Secure login/registration user class.
 */
-require '../vendor/phpmailer/phpmailer/PHPMailerAutoload.php';
+require 'PHPMailer/PHPMailerAutoload.php';
 
 class User{
     /** @var object $pdo Copy of PDO connection */
@@ -126,53 +126,54 @@ class User{
     * @return boolean of success.
     */
     private function sendConfirmationEmail($email){
-        $pdo = $this->pdo;
-        $stmt = $pdo->prepare('SELECT confirm_code FROM users WHERE email = ? limit 1');
-        $stmt->execute([$email]);
-        $code = $stmt->fetch();
-
-        $subject = 'Confirm your registration';
-        $message = 'Please confirm you registration by pasting this code in the confirmation box: '.$code['confirm_code'];
-        $headers = 'X-Mailer: PHP/' . phpversion();
-
-        if(mail($email, $subject, $message, $headers)){
-            return true;
-        }else{
-        	$mail = new PHPMailer;
-        	
-        	$mail->isSMTP();                                   // Set mailer to use SMTP
-        	$mail->Host = 'smtp.gmail.com';                    // Specify main and backup SMTP servers
-        	$mail->SMTPAuth = true;                            // Enable SMTP authentication
-        	$mail->Username = 'bearer1024@gmail.com';          // SMTP username
-        	$mail->Password = '3.14159abcdef'; // SMTP password
-        	$mail->SMTPSecure = 'tls';                         // Enable TLS encryption, `ssl` also accepted
-        	$mail->Port = 587;                                 // TCP port to connect to
-        	
-        	$mail->setFrom('bearer1024@gmail.com', 'feedReader');
-        	$mail->addReplyTo('bearer1024@gmail.com', 'feedReader');
-        	//$mail->addAddress('john@gmail.com');   // Add a recipient
-        	//$mail->addCC('cc@example.com');
-        	//$mail->addBCC('bcc@example.com');
-        	
-        	$mail->isHTML(true);  // Set email format to HTML
-        	
-        	$bodyContent = 'Please confirm you registration by pasting this code in the confirmation box: '.$code['confirm_code'];
-        	
-        	$mail->Subject = 'Confirm your registration for feedReader';
-        	$mail->Body    = $bodyContent;
-        	$mail->addAddress($email, 'reader');         	
-        	if(!$mail->send()) {
-        		$this->msg = 'confirmation email sending has failed in mail function.';
-        		echo 'Message could not be sent.';
-        		echo 'Mailer Error: ' . $mail->ErrorInfo;
-        		return false;    		
-        	} else {
-        		echo 'Message has been sent';
-        		return true;
-        	}
-        	
-        }
+    	$pdo = $this->pdo;
+    	$stmt = $pdo->prepare('SELECT confirm_code FROM users WHERE email = ? limit 1');
+    	$stmt->execute([$email]);
+    	$code = $stmt->fetch();
+    	
+    	$subject = 'Confirm your registration';
+    	$message = 'Please confirm you registration by pasting this code in the confirmation box: '.$code['confirm_code'];
+    	$headers = 'X-Mailer: PHP/' . phpversion();
+    	
+    	if(mail($email, $subject, $message, $headers)){
+    		return true;
+    	}else{
+    		$mail = new PHPMailer;
+    		
+    		$mail->isSMTP();                                   // Set mailer to use SMTP
+    		$mail->Host = 'smtp.gmail.com';                    // Specify main and backup SMTP servers
+    		$mail->SMTPAuth = true;                            // Enable SMTP authentication
+    		$mail->Username = 'bearer1024@gmail.com';          // SMTP username
+    		$mail->Password = '3.14159abcdef'; // SMTP password
+    		$mail->SMTPSecure = 'tls';                         // Enable TLS encryption, `ssl` also accepted
+    		$mail->Port = 587;                                 // TCP port to connect to
+    		
+    		$mail->setFrom('bearer1024@gmail.com', 'feedReader');
+    		$mail->addReplyTo('bearer1024@gmail.com', 'feedReader');
+    		//$mail->addAddress('john@gmail.com');   // Add a recipient
+    		//$mail->addCC('cc@example.com');
+    		//$mail->addBCC('bcc@example.com');
+    		
+    		$mail->isHTML(true);  // Set email format to HTML
+    		
+    		$bodyContent = 'Please confirm you registration by pasting this code in the confirmation box: '.$code['confirm_code'];
+    		
+    		$mail->Subject = 'Confirm your registration for feedReader';
+    		$mail->Body    = $bodyContent;
+    		$mail->addAddress($email, 'reader');
+    		if(!$mail->send()) {
+    			$this->msg = 'confirmation email sending has failed in mail function.';
+    			echo 'Message could not be sent.';
+    			echo 'Mailer Error: ' . $mail->ErrorInfo;
+    			return false;
+    		} else {
+    			echo 'Message has been sent';
+    			return true;
+    		}
+    		
+    	}
     }
+    
 
     /**
     * Activate a login by a confirmation code and login function
