@@ -4,8 +4,18 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "dfe9a7f3dcdc9ed68ffde79a962ca3d1",
+    "content-hash": "08abc9d2c51f53d0c0b4c781929eaa06",
     "packages": [
+        {
+            "name": "Minz",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/marienfressinaud/MINZ.git",
+                "reference": "master"
+            },
+            "type": "library"
+        },
         {
             "name": "phpmailer/phpmailer",
             "version": "v5.2.23",

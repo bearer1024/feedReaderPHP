@@ -76,5 +76,17 @@
             }
         ],
         "description": "PHPMailer is a full-featured email creation and transfer class for PHP"
+    },
+    {
+        "name": "Minz",
+        "version": "1.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/marienfressinaud/MINZ.git",
+            "reference": "master"
+        },
+        "type": "library",
+        "installation-source": "source"
     }
 ]
