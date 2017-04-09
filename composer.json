@@ -15,6 +15,7 @@
     ],
     "require": {
 	"Minz":"1.0",
+	"simplepie/simplepie": "dev-master",
         "phpmailer/phpmailer": "^5.2"
     }
 }
