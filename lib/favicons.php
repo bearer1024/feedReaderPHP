@@ -23,7 +23,7 @@ function download_favicon($website, $dest) {
 	curl_setopt($c, CURLOPT_HEADER, false);
 	curl_setopt($c, CURLOPT_RETURNTRANSFER, true);
 	curl_setopt($c, CURLOPT_BINARYTRANSFER, true);
-	curl_setopt($c, CURLOPT_USERAGENT, 'FreshRSS/' . FRESHRSS_VERSION . ' (' . PHP_OS . '; ' . FRESHRSS_WEBSITE . ')');
+	curl_setopt($c, CURLOPT_USERAGENT, 'FreshRSS/'  . ' (' . PHP_OS . '; ' . FRESHRSS_WEBSITE . ')');
 	$img_raw = curl_exec($c);
 	$status_code = curl_getinfo($c, CURLINFO_HTTP_CODE);
 	curl_close($c);

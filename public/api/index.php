@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB">
 <head>
 <meta charset="UTF-8" />
-<title>FreshRSS API</title>
+<title>FeedReader API</title>
 <meta name="robots" content="noindex" />
 <link rel="start" href="../i/" />
 </head>

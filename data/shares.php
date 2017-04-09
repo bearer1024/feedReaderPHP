@@ -18,7 +18,7 @@
 
 return array(
 	'shaarli' => array(
-		'url' => '~URL~?post=~LINK~&amp;title=~TITLE~&amp;source=FreshRSS',
+		'url' => '~URL~?post=~LINK~&amp;title=~TITLE~&amp;source=FeedReader',
 		'transform' => array('rawurlencode'),
 		'help' => 'http://sebsauvage.net/wiki/doku.php?id=php:shaarli',
 		'form' => 'advanced',

@@ -6,7 +6,7 @@ return array(
 		'fix_errors_before' => 'Please fix errors before skipping to the next step.',
 		'keep_install' => 'Keep previous configuration',
 		'next_step' => 'Go to the next step',
-		'reinstall' => 'Reinstall FreshRSS',
+		'reinstall' => 'Reinstall FeedReader',
 	),
 	'auth' => array(
 		'form' => 'Web form (traditional, requires JavaScript)',
@@ -31,7 +31,7 @@ return array(
 	),
 	'check' => array(
 		'_' => 'Checks',
-		'already_installed' => 'We have detected that FreshRSS is already installed!',
+		'already_installed' => 'We have detected that FeedReader is already installed!',
 		'cache' => array(
 			'nok' => 'Check permissions on <em>./data/cache</em> directory. HTTP server must have rights to write into',
 			'ok' => 'Permissions on cache directory are good.',
@@ -81,8 +81,8 @@ return array(
 			'ok' => 'You have PDO and at least one of the supported drivers (pdo_mysql, pdo_sqlite, pdo_pgsql).',
 		),
 		'php' => array(
-			'nok' => 'Your PHP version is %s but FreshRSS requires at least version %s.',
-			'ok' => 'Your PHP version is %s, which is compatible with FreshRSS.',
+			'nok' => 'Your PHP version is %s but FeedReader requires at least version %s.',
+			'ok' => 'Your PHP version is %s, which is compatible with FeedReader.',
 		),
 		'users' => array(
 			'nok' => 'Check permissions on <em>./data/users</em> directory. HTTP server must have rights to write into',
@@ -101,7 +101,7 @@ return array(
 	'default_user' => 'Username of the default user <small>(maximum 16 alphanumeric characters)</small>',
 	'delete_articles_after' => 'Remove articles after',
 	'fix_errors_before' => 'Please fix errors before skipping to the next step.',
-	'javascript_is_better' => 'FreshRSS is more pleasant with JavaScript enabled',
+	'javascript_is_better' => 'FeedReader is more pleasant with JavaScript enabled',
 	'js' => array(
 		'confirm_reinstall' => 'You will lose your previous configuration by reinstalling FreshRSS. Are you sure you want to continue?',
 	),
@@ -114,6 +114,6 @@ return array(
 	'ok' => 'The installation process was successful.',
 	'step' => 'step %d',
 	'steps' => 'Steps',
-	'title' => 'Installation · FreshRSS',
+	'title' => 'Installation · FeedReader',
 	'this_is_the_end' => 'This is the end',
 );
