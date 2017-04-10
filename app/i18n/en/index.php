@@ -30,7 +30,7 @@ return array(
 		'title' => 'Logs',
 	),
 	'menu' => array(
-		'about' => 'About FreshRSS',
+		'about' => 'About FeedReader',
 		'add_query' => 'Add a query',
 		'before_one_day' => 'Before one day',
 		'before_one_week' => 'Before one week',

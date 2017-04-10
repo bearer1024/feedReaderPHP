@@ -107,7 +107,7 @@ return array(
 	),
 	'language' => array(
 		'_' => 'Language',
-		'choose' => 'Choose a language for FreshRSS',
+		'choose' => 'Choose a language for FeedReader',
 		'defined' => 'Language has been defined.',
 	),
 	'not_deleted' => 'Something went wrong; you must delete the file <em>%s</em> manually.',

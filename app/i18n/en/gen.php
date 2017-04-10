@@ -98,7 +98,7 @@ return array(
 	),
 	'FeedReader' => array(
 		'_' => 'FeedReader',
-		'about' => 'About FreshRSS',
+		'about' => 'About FeedReader',
 	),
 	'js' => array(
 		'category_empty' => 'Empty category',
