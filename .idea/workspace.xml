@@ -2,58 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beefdc26-f577-441b-b1c0-cbd8b2a92d86" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/cz/admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/cz/conf.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/cz/feedback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/cz/gen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/cz/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/cz/install.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/cz/sub.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/de/admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/de/conf.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/de/feedback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/de/gen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/de/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/de/install.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/de/sub.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/fr/admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/fr/conf.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/fr/feedback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/fr/gen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/fr/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/fr/install.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/fr/sub.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/it/admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/it/conf.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/it/feedback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/it/gen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/it/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/it/install.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/it/sub.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/nl/admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/nl/conf.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/nl/feedback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/nl/gen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/nl/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/nl/install.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/nl/sub.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/ru/admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/ru/conf.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/ru/feedback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/ru/gen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/ru/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/ru/install.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/ru/sub.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/tr/admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/tr/conf.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/tr/feedback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/tr/gen.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/tr/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/tr/install.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/i18n/tr/sub.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/i18n/en/gen.php" afterPath="$PROJECT_DIR$/app/i18n/en/gen.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/i18n/en/index.php" afterPath="$PROJECT_DIR$/app/i18n/en/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/i18n/en/install.php" afterPath="$PROJECT_DIR$/app/i18n/en/install.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.phar" afterPath="$PROJECT_DIR$/composer.phar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Controllers/configureController.php" afterPath="$PROJECT_DIR$/app/Controllers/configureController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Controllers/entryController.php" afterPath="$PROJECT_DIR$/app/Controllers/entryController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Controllers/feedController.php" afterPath="$PROJECT_DIR$/app/Controllers/feedController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Controllers/indexController.php" afterPath="$PROJECT_DIR$/app/Controllers/indexController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Controllers/javascriptController.php" afterPath="$PROJECT_DIR$/app/Controllers/javascriptController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/actualize_script.php" afterPath="$PROJECT_DIR$/app/actualize_script.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/entry/bookmark.phtml" afterPath="$PROJECT_DIR$/app/views/entry/bookmark.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/entry/read.phtml" afterPath="$PROJECT_DIR$/app/views/entry/read.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/helpers/logs_pagination.phtml" afterPath="$PROJECT_DIR$/app/views/helpers/logs_pagination.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/helpers/pagination.phtml" afterPath="$PROJECT_DIR$/app/views/helpers/pagination.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/index/rss.phtml" afterPath="$PROJECT_DIR$/app/views/index/rss.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/actualize-user.php" afterPath="$PROJECT_DIR$/cli/actualize-user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/create-user.php" afterPath="$PROJECT_DIR$/cli/create-user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/delete-user.php" afterPath="$PROJECT_DIR$/cli/delete-user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/do-install.php" afterPath="$PROJECT_DIR$/cli/do-install.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/export-opml-for-user.php" afterPath="$PROJECT_DIR$/cli/export-opml-for-user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/export-zip-for-user.php" afterPath="$PROJECT_DIR$/cli/export-zip-for-user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/import-for-user.php" afterPath="$PROJECT_DIR$/cli/import-for-user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/list-users.php" afterPath="$PROJECT_DIR$/cli/list-users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/reconfigure.php" afterPath="$PROJECT_DIR$/cli/reconfigure.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/user-info.php" afterPath="$PROJECT_DIR$/cli/user-info.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/.gitignore" afterPath="$PROJECT_DIR$/data/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/.htaccess" afterPath="$PROJECT_DIR$/data/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/PubSubHubbub/feeds/.gitignore" afterPath="$PROJECT_DIR$/data/PubSubHubbub/feeds/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/PubSubHubbub/feeds/README.md" afterPath="$PROJECT_DIR$/data/PubSubHubbub/feeds/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/PubSubHubbub/keys/.gitignore" afterPath="$PROJECT_DIR$/data/PubSubHubbub/keys/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/PubSubHubbub/keys/README.md" afterPath="$PROJECT_DIR$/data/PubSubHubbub/keys/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/.gitignore" afterPath="$PROJECT_DIR$/data/cache/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/index.html" afterPath="$PROJECT_DIR$/data/cache/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/config.default.php" afterPath="$PROJECT_DIR$/data/config.default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/do-install.txt" afterPath="$PROJECT_DIR$/data/do-install.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/favicons/.gitignore" afterPath="$PROJECT_DIR$/data/favicons/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/favicons/index.html" afterPath="$PROJECT_DIR$/data/favicons/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/force-https.default.txt" afterPath="$PROJECT_DIR$/data/force-https.default.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/index.html" afterPath="$PROJECT_DIR$/data/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/shares.php" afterPath="$PROJECT_DIR$/data/shares.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tokens/.gitignore" afterPath="$PROJECT_DIR$/data/tokens/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tokens/index.html" afterPath="$PROJECT_DIR$/data/tokens/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/users/.gitignore" afterPath="$PROJECT_DIR$/data/users/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/users/_/config.default.php" afterPath="$PROJECT_DIR$/data/users/_/config.default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/users/index.html" afterPath="$PROJECT_DIR$/data/users/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/SimplePie/SimplePie/Registry.php" afterPath="$PROJECT_DIR$/lib/SimplePie/SimplePie/Registry.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index/index.php" afterPath="$PROJECT_DIR$/public/index/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,121 +56,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Search.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Search.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Searchable.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Searchable.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Share.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Share.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StatsDAO.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/StatsDAO.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1491683466000" expanded="true" signature="995:1219" ph="SELECT COUNT... ${{$this-&gt;prefix}}entry" />
-                <marker date="1491683466000" expanded="true" signature="1782:1929" ph="SELECT ${{$s... " />
-                <marker date="1491683466000" expanded="true" signature="3505:3670" ph="SELECT DATE_... " />
-                <marker date="1491683466000" expanded="true" signature="5111:5217" ph="SELECT COUNT... " />
-                <marker date="1491683466000" expanded="true" signature="6246:6412" ph="SELECT c.nam... ${{$this-&gt;prefix}}category" />
-                <marker date="1491683466000" expanded="true" signature="6717:6933" ph="SELECT c.nam... ${{$this-&gt;prefix}}category" />
-                <marker date="1491683466000" expanded="true" signature="7207:7476" ph="SELECT f.id " />
-                <marker date="1491683466000" expanded="true" signature="7729:7936" ph="SELECT MAX(f... ${{$this-&gt;prefix}}feed" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/i18n/en/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="679">
-              <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aside_feed.phtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/layout/aside_feed.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.phtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/layout/header.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Auth.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/Auth.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DatabaseDAO.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Models/DatabaseDAO.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-901">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="install.sql.mysql.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/SQL/install.sql.mysql.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-              <folding>
-                <marker date="1491746014277" expanded="true" signature="158:391" ph="CREATE TABLE... IF" />
-                <marker date="1491746014277" expanded="true" signature="394:1273" ph="CREATE TABLE... IF" />
-                <marker date="1491746014277" expanded="true" signature="1276:2031" ph="CREATE TABLE... IF" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -241,61 +119,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="feedReaderPHP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="feedReaderPHP" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Models" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="feedReaderPHP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="feedReaderPHP" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="feedReaderPHP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="feedReaderPHP" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
+              <option name="myItemId" value="reader" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -341,7 +165,7 @@
     <frame x="0" y="0" width="3000" height="1948" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15654206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15654206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295519" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -352,12 +176,22 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295519" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15654206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,14 +205,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/Minz/Configuration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2726">
-          <caret line="56" column="27" lean-forward="false" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/themes/base-theme/template.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-18705">
@@ -507,36 +333,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Searchable.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Share.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/StatsDAO.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1491683466000" expanded="true" signature="995:1219" ph="SELECT COUNT... ${{$this-&gt;prefix}}entry" />
-            <marker date="1491683466000" expanded="true" signature="1782:1929" ph="SELECT ${{$s... " />
-            <marker date="1491683466000" expanded="true" signature="3505:3670" ph="SELECT DATE_... " />
-            <marker date="1491683466000" expanded="true" signature="5111:5217" ph="SELECT COUNT... " />
-            <marker date="1491683466000" expanded="true" signature="6246:6412" ph="SELECT c.nam... ${{$this-&gt;prefix}}category" />
-            <marker date="1491683466000" expanded="true" signature="6717:6933" ph="SELECT c.nam... ${{$this-&gt;prefix}}category" />
-            <marker date="1491683466000" expanded="true" signature="7207:7476" ph="SELECT f.id " />
-            <marker date="1491683466000" expanded="true" signature="7729:7936" ph="SELECT MAX(f... ${{$this-&gt;prefix}}feed" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -584,11 +385,205 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <marker date="1491746014277" expanded="true" signature="158:391" ph="CREATE TABLE... IF" />
-            <marker date="1491746014277" expanded="true" signature="394:1273" ph="CREATE TABLE... IF" />
-            <marker date="1491746014277" expanded="true" signature="1276:2031" ph="CREATE TABLE... IF" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Share.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Searchable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Minz/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2726">
+          <caret line="56" column="27" lean-forward="false" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/base-theme/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18705">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="953" column="28" lean-forward="true" selection-start-line="953" selection-start-column="28" selection-end-line="953" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Minz/Translate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="220" column="3" lean-forward="true" selection-start-line="220" selection-start-column="3" selection-end-line="220" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/i18n/en/conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3539">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/i18n/en/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1914">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/i18n/en/feedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1305">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/i18n/en/gen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="102" column="18" lean-forward="true" selection-start-line="102" selection-start-column="18" selection-end-line="102" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/i18n/en/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="99" column="36" lean-forward="true" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controllers/userController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/superglobals/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lib_rss.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="352" column="9" lean-forward="false" selection-start-line="352" selection-start-column="9" selection-end-line="352" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="555" column="291" lean-forward="true" selection-start-line="555" selection-start-column="291" selection-end-line="555" selection-end-column="291" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Feed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9048">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/LogDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Searchable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Share.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/StatsDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/i18n/en/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout/aside_feed.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layout/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/DatabaseDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-901">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/SQL/install.sql.mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
